@@ -1,24 +1,25 @@
 # Hi, I'm Travis
 
-## Practical automation, built with AI assistance
+I build practical tools for working with data and content. My background is in copywriting, research, and video production; my projects turn recurring tasks into small apps with clear inputs and useful outputs.
 
-I use AI tools to turn ideas into useful workflows and online products. I used Grokbot to build an Apify store and publish 51+ Actors, and Codex to build tools for content ideas and competitor-content research. I also use ChatGPT and dot to help manage projects.
+## Featured projects
 
-My work is AI-assisted, and this portfolio separates published products, tested demonstrations, and skills I am still developing.
+| Project | What it does | Links |
+| --- | --- | --- |
+| **Shopify Snapshot Compare** | Find product and variant changes between catalogue exports, then download a comparison report. | [Try it](https://travis-shopify-snapshot-compare.divineburl2.chatgpt.site) · [Code](https://github.com/travisjmurphy/automation-portfolio/tree/main/apps/shopify-snapshot-compare) |
+| **Transcript Clip Planner** | Turn an SRT/VTT transcript into an ordered clip plan with timestamps, hooks, B-roll ideas, and editor notes. | [Try it](https://travis-transcript-clip-planner.divineburl2.chatgpt.site) · [Code](https://github.com/travisjmurphy/automation-portfolio/tree/main/apps/transcript-clip-planner) |
+| **Canadian Permit Explorer** | Search and filter building-permit exports while keeping the source, licence, and coverage limits visible. | [Try it](https://travis-canadian-permit-explorer.divineburl2.chatgpt.site) · [Code](https://github.com/travisjmurphy/automation-portfolio/tree/main/apps/canadian-permit-explorer) |
 
-### Featured projects
+All three run in the browser and include sample data, tests, example outputs, and local setup instructions. You can try the demos without an account or API key.
 
-- **[Make lead-intake pilot](https://github.com/travisjmurphy/automation-portfolio/blob/main/case-studies/make-lead-intake.md)**: a synthetic inquiry-to-spreadsheet workflow with duplicate prevention and a privacy filter. Tested with fictional data only; inactive and not production-ready.
-- **[Canada Building Permits](https://github.com/travisjmurphy/automation-portfolio/blob/main/case-studies/canada-building-permits.md)**: a published Apify Actor that brings together official building-permit data from 14 Canadian cities.
-- **[Shopify Store Products](https://github.com/travisjmurphy/automation-portfolio/blob/main/case-studies/shopify-store-products.md)**: a published Apify Actor for product information from public Shopify storefront feeds.
+[![Shopify Snapshot Compare workspace](https://raw.githubusercontent.com/travisjmurphy/automation-portfolio/main/apps/shopify-snapshot-compare/docs/screenshot.png)](https://travis-shopify-snapshot-compare.divineburl2.chatgpt.site)
 
-### Learning roadmap
+## Automation and data projects
 
-I am building experience with **Make, APIs, webhooks, and Google Sheets** through small, testable projects. **n8n and Zapier** are tools I plan to learn next.
+I also publish data tools through my **[Apify store](https://apify.com/loudtzu)**, including Shopify product exports and Canadian building permits. My **[Make lead-intake case study](https://github.com/travisjmurphy/automation-portfolio/blob/main/case-studies/make-lead-intake.md)** documents an inactive pilot tested with fictional inquiries, duplicate prevention, and unsent reply previews.
 
-Practice areas:
-- Inquiry intake and duplicate prevention.
-- Spreadsheet reporting and scheduled summaries.
-- Notifications and human-reviewed follow-up workflows.
+## How I build
 
-[Explore the automation portfolio](https://github.com/travisjmurphy/automation-portfolio)
+I use Codex, Grokbot, and other AI tools to help build, test, and document projects. I'm developing my experience with TypeScript, APIs, webhooks, and workflow automation by making tools that solve specific problems and showing how they work.
+
+**[Explore the full portfolio →](https://github.com/travisjmurphy/automation-portfolio)**
